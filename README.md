@@ -211,7 +211,7 @@ Credit: [devicelocksmith](https://www.devicelocksmith.com/2018/12/eap-tls-creden
 ### Compile Entware packages from source
 Some useful links
 - [Compile-packages-from-sources](https://github.com/Entware/Entware/wiki/Compile-packages-from-sources)
-- [Compile-custom-programs-from-source](https://github.com/RMerl/asuswrt-merlin/wiki/Compile-custom-programs-from-source)
+- [Compile-custom-programs-from-source](https://github.com/RMerl/asuswrt-merlin.ng/wiki/)
 
 [Back to menu](#menu)
 ## Credits & References
